@@ -1,0 +1,17 @@
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\UnitTest4.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\UnitTest4.pdb
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\SpreadsheetEditor.exe
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\SpreadsheetEditor.pdb
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\SpreadsheetEditor.exe.config
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\obj\Debug\UnitTest4.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\obj\Debug\UnitTest4.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\obj\Debug\UnitTest4.dll
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\obj\Debug\UnitTest4.pdb
+C:\Users\savch\Desktop\Lab1Oop\UnitTest4\obj\Debug\UnitTest4.csproj.CopyComplete
